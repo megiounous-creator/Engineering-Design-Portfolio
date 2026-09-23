@@ -11,7 +11,7 @@ My experience covers the development of complex mechanical and robotic systems f
 - Robotics and autonomous systems
 - Mechanical system design and integration
 - CAD and DfM/DfA
-- Structural FEA and CFD
+- Structural FEA, Explicit Dynamics, Store Separation and CFD
 - Prototyping and manufacturing
 - Testing and experimental validation
 - Product development and industrialisation
