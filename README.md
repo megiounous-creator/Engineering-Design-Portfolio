@@ -18,4 +18,4 @@ My experience covers the development of complex mechanical and robotic systems f
 
 The portfolio includes projects such as **BugWright2**, **TUBERS**, marine and robotic systems, industrial products and fire-suppression hardware.
 
-**The full engineering portfolio is available as a PDF in this repository.**
+**The full engineering portfolio and videos are available as a PDF and mp4 in this repository.**
